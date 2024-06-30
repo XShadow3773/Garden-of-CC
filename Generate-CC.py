@@ -2,6 +2,7 @@
 This Tool Is Free Selling Of This Tool Is Not Allowed
 Check Out Our Telegram Channel For More 
 Telegram - https://t.me/ShadowGardenHackingz
+Many errors in this file are fixed thanks to Fox-CC 
 ###
 
 import sys
