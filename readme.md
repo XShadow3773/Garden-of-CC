@@ -22,7 +22,7 @@ apt-get update && apt-get upgrade
 apt-get install git python3 nodejs
 ```
 ```
-git clone
+git clone https://github.com/XShadow3773/Garden-of-CC.git
 ```
 ```
 cd Garden-of-CC
