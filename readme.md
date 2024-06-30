@@ -31,7 +31,7 @@ cd Garden-of-CC
 pip3 install -r allrequirements.txt
 ```
 ```
-python3 generate-cc.py
+python3 Generate-CC.py
 ```
 
 # Installation For Windows
