@@ -27,12 +27,12 @@ cy = colorama.Fore.CYAN
 gg = colorama.Fore.LIGHTCYAN_EX
 
 def logo():
-    figlet = Figlet(font="standard").renderText("Fox CC")
+    figlet = Figlet(font="standard").renderText("Shadow Garden")
     return (gn + figlet)
 print (logo())
 print (bl + "[-] Powered by Shadow Garden ")
-print (gn + "[+] Made By XShadow3773")
-print (cy + "[=] Garden of CC Tools Version : 1.0.5")
+print (gn + "[-] Made By XShadow3773")
+print (cy + "[-] Garden of CC Tools Version : 1.0.5")
 
 opr = input (mag + "\n[x] 1) Generate single valid cc\n[x] 2) Generate multi valid cc (generate cc list)\n[x] 3) CC validator\n[x] 4) Generate Multi Bin Number \n\n[^] Please Enter an option :  ")
 
@@ -91,4 +91,4 @@ elif opr == "4":
     print (rd)
     bin.bin_generator(number , round)
     print ("Saved File as bin_generated.txt !")
-    print (mag + "[$] Telegram Channel : https://t.me/ShadowGardenHackingz" + cv)
+    print (mag + "[$] Telegram Channel : @ShadowGardenHackingz" + cv)
